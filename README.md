@@ -1,35 +1,47 @@
-# 🍽️ Project: Simple API 2 - Restaurant
+<img width="570" height="696" alt="Screenshot 2026-11-17 at 8 55 27 AM" src="https://github.com/user-attachments/assets/67a6e012-5604-480a-a2fb-56935630255b" />
 
-Description
+https://restaurantapiproject1.netlify.app/
 
-Daily Special Recipe Ideas is a simple web application that helps users find recipe ideas based on a main ingredient.
+# 🍽️ Daily Special Recipe Ideas
 
-The user enters an ingredient and clicks the Get Recipe button. The application retrieves recipe information and displays multiple recipe options for the user.
+## 📖 Description
+Daily Special Recipe Ideas is a simple web application that allows users to discover recipes based on their main ingredient. Users enter an ingredient, and the application fetches and displays recipe suggestions, including names, images, and instructions.
 
-This project was created to practice working with APIs, JavaScript fetch(), user input, and displaying API data on a webpage.
+## ✨ Features
+- Search for recipes by ingredient
+- Display up to five recipe options
+- View recipe names and images
+- Read recipe information and instructions
+- Simple, user-friendly interface
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+- **HTML5** – Structures the webpage and recipe sections.
+- **CSS3** – Styles the layout, buttons, and recipe cards.
+- **JavaScript** – Handles user input, API requests, and DOM updates.
+- **Recipe API** – Retrieves recipe data based on the selected ingredient.
 
-HTML — Creates the structure of the application, including the ingredient input, button, recipe names, images, and recipe information.
+## 🧠 What I Learned
+- How to use `fetch()` to retrieve data from an external API.
+- How to work with JSON data.
+- How to use JavaScript to update the DOM dynamically.
+- How to handle user input and display API results.
+- How to connect a frontend application to an external API.
 
-JavaScript — Handles the user's input, makes the API request, retrieves recipe data, and displays the results in the DOM.
+## 🚀 How to Use
+1. Open the [Live Website](https://restaurantapiproject1.netlify.app/).
+2. Enter a main ingredient, such as chicken, beef, or salmon.
+3. Click the **Get Recipe** button.
+4. Browse the recipe suggestions displayed on the page.
+5. View recipe names, images, and instructions.
 
-API — Provides the recipe information used by the application.
+## 💻 How to Install
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   ```
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser or use the Live Server extension.
+4. Enter an ingredient to start searching for recipes.
 
-Features
-
-Search for recipes using a main ingredient
-
-Display multiple recipe options
-
-Display recipe names
-
-Display recipe images
-
-Display recipe information
-
-<img width="3160" height="3160" alt="anh-nguyen-kcA-c3f_3FE-unsplash" src="https://github.com/user-attachments/assets/e6611d4a-5602-4b7a-8054-52192c419568" />
-
-I completed the challenge: 4
-I feel good about my code: 2
-While it is functional , there is still some debugging that needs to be done.
+## 🌐 Live Demo
+[Daily Special Recipe Ideas](https://restaurantapiproject1.netlify.app/)
